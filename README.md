@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @PriceyC
-- 👀 I’m interested in developing my programming skills across the board.
-- 🌱 I’m currently studying a bachelors in computer science
-- 💞️ I’m looking to collaborate on anything and everything where I have time.
-- 📫 How to reach me 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an incredibly average league player.
+I'm currently studying for my BSc in Computer Science at the University of London, with a strong passion for technology, problem-solving, and innovation. I enjoy tackling challenges, learning new skills, and finding efficient solutions to complex problems. I'm always looking for opportunities to grow and apply my knowledge in real-world scenarios, whether through projects, collaboration, or new experiences.
 
 <!---
 PriceyC/PriceyC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
